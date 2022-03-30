@@ -1,10 +1,11 @@
-# Official-1
+# Python-Full-Stack Application
 
-   This project is introducing the aspect of GitHub to me in Computer Programming, Software Development, Application Development. Over the coming months and years some of the projects that I undertake will be posted to GitHub as a way of showcasing some of my abilities as a software developer. Also, without showing absolutely everyone and every block of code. 
+Over the duration of the associates degree college education. Students were tasked with creating a program for the final assignment of many programming courses. At the time I completed this assignment for a fundamentals in programming course, it was a standalone program. As I grew conceptually and with programmatical skills. I decided to add other elements to the program. 
 
-I hope you enjoy, if you have any questions. Please, feel free to message me at jon-yarbrough@raider.rose.edu.
+What you will see is the python code for the program of the final assignment. Any future commits will either re-structure the design pattern of the program or contribute to the overall program. 
 
 
-Sincerely,
-
-Jon-Tyler
+Next Stages of the Program
+---------------------------
+1. ADD a MySQL Database as the backend of the program. 
+2. ADD either an Angular.js or REACT.js Front End to communicate with the REST API.
